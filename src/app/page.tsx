@@ -97,6 +97,11 @@ export default function Home() {
           </ul>
         </div>
       </div>
+      <footer className='footer mt-auto py-3 bg-body-tertiary'>
+        <div>
+        <Image src="/logo.jpg" className="img-fluid" alt="..." width={400} height={100} objectPosition='' style={{}}/>
+        </div>
+      </footer>
     </main >
   )
 }
